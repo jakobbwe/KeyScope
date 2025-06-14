@@ -25,4 +25,4 @@ Das Script benötigt **Administratorrechte**, da das `keyboard`-Modul Systemzugr
      
    ```bash
    git clone https://github.com/jakobbwe/KeyScope.git
-   cd keyboard-analyser
+   cd KeyScope
