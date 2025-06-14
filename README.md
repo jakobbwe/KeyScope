@@ -22,6 +22,7 @@ Das Script benötigt **Administratorrechte**, da das `keyboard`-Modul Systemzugr
 ## 🚀 Installation
 
 1. Projekt klonen:
+     
    ```bash
-   git clone https://github.com/dein-nutzername/keyboard-analyser.git
+   git clone https://github.com/jakobbwe/KeyScope.git
    cd keyboard-analyser
